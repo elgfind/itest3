@@ -1,0 +1,16 @@
+ IoC,Type
+CVE-2023-4966,Vuln
+1bf171b1f388691c3985df6fb6c3f0d1,FileHash1
+fdb92fac37232790839163a3cae5f37372db7235,FileHash2
+0112e3b20872760dda5f658f6b546c85f126e803e27f0577b294f335ffa5a298,FileHash3
+69a20bae02480e03cb36e26729ed4a74c613eee5ba8c44396655da84a851fd03,FileHash3
+d53f5c10f07d4610a0fa1b6a8638648e4ab5370377364a2cc7aff4bb75c4d71b,FileHash3
+88.119.175.194,IP
+beamofthemoon.com,Domain
+kiddlanka.com,Domain
+misstallion.com,Domain
+mail.beamofthemoon.com,Domain
+mail.kiddlanka.com,Domain
+mail.misstallion.com,Domain
+store.beamofthemoon.com,Domain
+store.misstallion.com,Domain
