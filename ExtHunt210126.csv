@@ -656,7 +656,8 @@ FileLuS5.exe,process
 FilesDesktop.exe,process
 ossutil.exe,process
 b2.exe,process
-rados.exe / ceph.exe,process
+rados.exe,process
+ceph.exe,process
 ShareFileSync.exe,process
 1fichier.com,Domain
 akamai.com,Domain
@@ -737,3 +738,4 @@ wasabi.com,Domain
 webdav.org,Domain
 yandex.com,Domain
 zata.ai,Domain
+
