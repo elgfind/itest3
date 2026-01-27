@@ -18,7 +18,6 @@ backblazeb2.com,Domain
 discord.com,Domain
 jabra-direct.exe,Process
 Dropbox.exe,Process
-RadeonSoftware.exe,Process
 mbamservice.exe,Process
 bluemail.exe,Process
 goveedesktop2.30.05.exe,Process
@@ -30,6 +29,6 @@ mbamscheduler.exe,Process
 GoogleDriveFS.exe,Process
 nc.exe,Process
 ncat.exe,Process
-NxPdfCreator.exe,Process
 mbam.exe,Process
-aeccb.exe,Process
+
+
