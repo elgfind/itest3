@@ -1,0 +1,15 @@
+IoC,Type
+CVE-2026-21509,Vuln
+c6f4df18cb880500f3921a179c3a3766,FileHash1
+fba867df17721879df9d8dcca68d6900,FileHash1
+510af9bb00ff5d4a6856b1291af55db9f6e13551,FileHash2
+937e75e0e1c82eecab69e9b8ad481bd7e0845308,FileHash2
+918fa52ae45ed60ba7cc8bdc99c3cbe9ab92e0375ec31fc05d0d4513be11c593,FileHash3
+be99857449d2856dd5a84e21c8a3d5e0e01456adb44062ddec5a6b4970d8d42c,FileHash3
+213.145.86.112,IP
+38.146.28.132,IP
+38.146.28.75,IP
+m365-owa.com,Domain
+ms365-device.com,Domain
+ms365-live.com,Domain
+owa-ms365.com,Domain
