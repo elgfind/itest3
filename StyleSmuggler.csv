@@ -1,0 +1,13 @@
+IoC,Type
+CVE-2025-54236,Vuln
+a07bc08eded18cc7317216cbbd7032d2,FileHash1
+11d6a0c1000576915584c49c7039206bbb4c24d1,FileHash2
+b79dfdc1eed860e0b76c629d6adfce251db379b0b45a6d728d4ef483f7551420,FileHash3
+e315687a1dfe61ef4a5a5642214db6d3b2b05d81391285eebc2af664641a26a7,FileHash3
+88.216.72.181,IP
+ecomscan.com,Domain
+windwsecurity.run,Domain
+247.cdnflare.xyz,Domain
+ntp.timesysnc.net,Domain
+pool.microsft.studio,Domain
+time.microsft.run,Domain
